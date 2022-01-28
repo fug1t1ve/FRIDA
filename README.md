@@ -1,2 +1,2 @@
 # FRIDA
-some basic cheatsheet and tools
+some basic cheatsheets and tools
