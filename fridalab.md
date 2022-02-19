@@ -23,7 +23,7 @@ I prefer using [Genymotion(Windows 10 with virtualbox)](https://www.genymotion.c
     - `adb shell "/data/local/tmp/frida-server &"`
 
 ## Getting Started
-- Now your frida env is setup we can go ahead and install the apk and start tracing
+- Now your frida env is ready we can go ahead and install the apk and start tracing
 - To install use `adb install fridalab.apk`
 - To start tracing `frida -U -f uk.rossmarks.fridalab`
 - Once you run the above commands you will get the frida shell: [img]
