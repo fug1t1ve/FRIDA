@@ -1,6 +1,6 @@
 # FridaLab
 
-created by [Ross Marks](http://rossmarks.uk/blog/)
+Created by [Ross Marks](http://rossmarks.uk/blog/)
 
 The app is similar to bomblabs it contains challenges suitable for a frida beginner to learn how the basics of frida works
 
