@@ -27,7 +27,7 @@ I prefer using [Genymotion(Windows 10 with virtualbox)](https://www.genymotion.c
 - To install use `adb install fridalab.apk`
 - To start tracing `frida -U -f uk.rossmarks.fridalab`
 - Once you run the above commands you will get the frida shell: [img]
-- do `%resume` as it is debugging and will stop at "start" and the classes are not declared
+- Do `%resume` as it is debugging and will stop at "start" and the classes are not declared
 - You can follow the above commands for any application you are debugging
 
 ## Decompiler
